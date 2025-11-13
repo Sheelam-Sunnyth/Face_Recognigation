@@ -1,10 +1,10 @@
 # Face Recognition System
 
-[![Build Status](https://github.com/prasadus92/face-recognition/actions/workflows/build.yml/badge.svg)](https://github.com/prasadus92/face-recognition/actions/workflows/build.yml)
+[![Build Status](https://github.com/Sheelam-Sunnyth/Face_Recognigation)
 
 ## Author
-**Prasad Subrahmanya**  
-[GitHub Profile](https://github.com/prasadus92)
+**Sheelam Sunnyth**  
+[GitHub Profile](https://github.com/Sheelam-Sunnyth)
 
 A Java-based face recognition system that uses eigenfaces for face recognition under various conditions including expressions, occlusions, and pose variations.
 
@@ -130,9 +130,6 @@ A Java-based face recognition system that uses eigenfaces for face recognition u
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [License.txt](License.txt) file for details.
 
 ## Acknowledgments
 
