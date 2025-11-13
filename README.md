@@ -1,6 +1,6 @@
 # Face Recognition System
 
-[![Build Status](https://github.com/Sheelam-Sunnyth/Face_Recognigation)
+[Build Status](https://github.com/Sheelam-Sunnyth/Face_Recognigation)
 
 ## Author
 **Sheelam Sunnyth**  
